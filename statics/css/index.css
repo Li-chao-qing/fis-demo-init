@@ -1,0 +1,56 @@
+html, body {
+	/*// width: 98.63%;
+	// height: 97.80%;
+	// width: 1460px;
+	// height: 960px;*/
+}
+.contain {
+	/*// width: 1440px;
+	// height: 900px;*/
+	padding: 10px;
+	background-color: #000;
+	background-image: url(../images/screen_grid.png)
+
+}
+.up {
+	overflow: hidden;
+
+}
+.down {
+	overflow: hidden;
+}
+.relation,
+.risky_assets,
+.module,
+.visit,
+.level {
+	padding:10px;
+	float: left;
+}
+.relation_cont {
+	
+	/*// width: 1060px;
+	// height: 520px;*/
+	background-color: rgba(63, 189, 189, 0.1);
+}
+.risky_assets_cont {
+	/*// float: left;
+	// width: 340px;
+	// height: 520px;*/
+	background-color: rgba(63, 189, 189, 0.1);
+}
+.module_cont {
+	/*// width: 520px;
+	// height: 340px;*/
+	background-color: rgba(63, 189, 189, 0.1);
+}
+.visit_cont {
+	/*// width: 520px;
+	// height: 340px;*/
+	background-color: rgba(63, 189, 189, 0.1);
+}
+.level_cont {
+	/*// width: 340px;
+	// height: 340px;*/
+	background-color: rgba(63, 189, 189, 0.1);
+}

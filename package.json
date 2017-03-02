@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "echarts": "^3.4.0",
+    "fis3-hook-commonjs": "^0.1.26",
+    "fis3-postpackager-loader": "^2.1.4"
+  },
+  "dependencies": {}
+}
