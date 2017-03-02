@@ -1,4 +1,5 @@
 html, body {
+	font-size:100%;
 	/*// width: 98.63%;
 	// height: 97.80%;
 	// width: 1460px;
@@ -7,10 +8,12 @@ html, body {
 .contain {
 	/*// width: 1440px;
 	// height: 900px;*/
+	font-size:1em;
 	padding: 10px;
+	color:#fff;
 	background-color: #000;
 	background-image: url(../images/screen_grid.png)
-
+/* 1 /x=16/change*/
 }
 .up {
 	overflow: hidden;
@@ -53,4 +56,7 @@ html, body {
 	/*// width: 340px;
 	// height: 340px;*/
 	background-color: rgba(63, 189, 189, 0.1);
+}
+.relation{
+	font-size:1.875em;
 }
