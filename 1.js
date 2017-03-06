@@ -1,5 +1,5 @@
 /**
- * @author lihuahai(lihuahai@baidu.com)
+ * 
  * @file 构建fis-config文件
  *  构建开始命令 fis3 release -wL
  *  开启服务 fis3 server start
